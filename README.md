@@ -1,4 +1,4 @@
-# Stocify
+# Stockify
 
 This is a stock visualizer which creates plotly graphs of any of the S&P 500 stock from 2013-2018. The data set from Kaggle, and is availible on the following link: [https://www.kaggle.com/camnugent/sandp500/code](https://www.kaggle.com/camnugent/sandp500/code). The data set is in the form of a zip folder called archive.zip Download and unzip the folder, to use the .csv file. Ensure that the .csv file is in the same folder as the note book or .csv file will not open and thus the data will not load.
 
@@ -35,7 +35,7 @@ To install plotly, run any of the following commands in the command prompt:
 
 ## Authors
 
-* **Muhammad Zaman** - *Sole Contributor* - [MuhammadZ985](https://github.com/MuhammadZ985)
+* **Muhammad Zaman** - *Sole Contributor* - [mhzaman-cs](https://github.com/mhzaman-cs)
 
 ## License
 
